@@ -1,2 +1,0 @@
-# itdevpro
-Sails JS Demo
