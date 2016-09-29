@@ -1,3 +1,4 @@
 # testProject
 
-a [Sails](http://sailsjs.org) application
+itdevpro
+Sails JS Demo
