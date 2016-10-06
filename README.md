@@ -1,4 +1,4 @@
 # testProject
 
-itdevpro
-Sails JS Demo
+itdevpro --
+It is build on Sails JS Framework
